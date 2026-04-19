@@ -1,2 +1,2 @@
 # Python Exercise
-100 python programs
+Python programs
